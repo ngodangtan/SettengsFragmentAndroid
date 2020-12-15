@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ChatBotAndroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/back up/ktts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ktts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poi-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recycleView/ktts" vcs="Git" />
+  </component>
+</project>
